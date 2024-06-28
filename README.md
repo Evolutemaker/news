@@ -39,8 +39,8 @@ lib
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/news_feed_app.git
-   cd news_feed_app
+   git clone https://github.com/Evolutemaker/news.git
+   cd news
 2. **Install dependencies:**
 
    ```dart
